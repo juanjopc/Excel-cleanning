@@ -16,4 +16,3 @@ That script separate tables, pivot tables, graphs from the pages.
 
 6) Export the PerfectXL Explore file.
 7) 
-
